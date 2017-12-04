@@ -1,0 +1,2 @@
+# PlaceFinder
+PlaceFinder is a simple python program that takes advantage of the Google Maps API.  This program allows you to enter two types of places and a radius.  Based on your location it will return three pairs of places that are closest to one another.
